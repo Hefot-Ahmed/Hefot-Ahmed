@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi my name is Hefot Ahmed 👋
+## 🔭 I’m currently working on an exiting project!
+## 📫 How to reach me: hefot6@gmail.com 
 <!--
 **Hefot-Ahmed/Hefot-Ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
